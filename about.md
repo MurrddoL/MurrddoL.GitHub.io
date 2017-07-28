@@ -7,7 +7,7 @@ header-img: "img/black.jpg"
 
 
 <center>
-    <p><img src="img/murrddol.jpg"  align="center"></p>
+    <p><img src="![]img/murrddol.jpg"  align="center"></p>
 </center>
 
 我是木如天。
