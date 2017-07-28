@@ -5,6 +5,9 @@ description: "独木亦成林"
 header-img: "img/black.jpg"
 ---
 
+<center>
+    <p><img src="img/murrddol.jpg" align="center"></p>
+</center>
 
 <ul class="listing">
 {% for post in site.posts %}
