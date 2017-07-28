@@ -7,7 +7,7 @@ header-img: "img/black.jpg"
 
 
 <center>
-    <p><img src="img/murrddol.jpg" align="center"></p>
+    <p><img src="MurrddoL.GitHub.io/img/murrddol.JPG" align="center"></p>
 </center>
 
 
