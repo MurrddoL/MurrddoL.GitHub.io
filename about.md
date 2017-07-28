@@ -7,7 +7,7 @@ header-img: "img/black.jpg"
 
 
 <center>
-    <p><img src=![](http://otsp9u9u8.bkt.clouddn.com/17-7-28/46064042.jpg)></p>
+    ![](http://otsp9u9u8.bkt.clouddn.com/17-7-28/46064042.jpg)
 </center>
 
 我是木如天。
