@@ -7,7 +7,7 @@ header-img: "img/green.jpg"
 
 
 <center>
-    <p><img src="https://onedrive.live.com/embed?cid=B7FD65C2B9250976&resid=B7FD65C2B9250976%214979&authkey=AHQDUGK8iH3ENjg" align="center"></p>
+    <p><iframe src="https://onedrive.live.com/embed?cid=B7FD65C2B9250976&resid=B7FD65C2B9250976%214979&authkey=AHQDUGK8iH3ENjg" width="320" height="320" frameborder="0" scrolling="no"></iframe></p>
 </center>
 
 我是木如天。
