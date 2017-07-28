@@ -7,7 +7,7 @@ header-img: "img/black.jpg"
 
 
 <center>
-    ![](http://otsp9u9u8.bkt.clouddn.com/17-7-28/46064042.jpg)
+    <p><img src="http://otsp9u9u8.bkt.clouddn.com/17-7-28/46064042.jpg" align="center"></p>
 </center>
 
 我是木如天。
@@ -25,10 +25,3 @@ header-img: "img/black.jpg"
 - [博客：www.murrddol.com](www.murrddol.com)
 
 - [微博@木如天](http://weibo.com/xirutia)
-
-
-
-
-
-
-
