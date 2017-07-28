@@ -1,10 +1,13 @@
 ---
 layout: page
 title: "Tags"
-description: "库"  
-header-img: "img/black.jpg"  
+description: "库"
+header-img: "img/black.jpg"
 ---
 
+<center>
+    <p><img src="http://otsp9u9u8.bkt.clouddn.com/17-7-28/46064042.jpg" align="center"></p>
+</center>
 ##本页使用方法
 
 1. 在下面选一个你喜欢的词
@@ -33,7 +36,7 @@ header-img: "img/black.jpg"
 {% endfor %}
 </ul>
 
-<script src="/media/js/jquery.tagcloud.js" type="text/javascript" charset="utf-8"></script> 
+<script src="/media/js/jquery.tagcloud.js" type="text/javascript" charset="utf-8"></script>
 <script language="javascript">
 $.fn.tagcloud.defaults = {
     size: {start: 1, end: 1, unit: 'em'},
