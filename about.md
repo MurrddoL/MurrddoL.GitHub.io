@@ -7,7 +7,7 @@ header-img: "img/green.jpg"
 
 
 <center>
-    <p><iframe src="https://onedrive.live.com/embed?cid=B7FD65C2B9250976&resid=B7FD65C2B9250976%214979&authkey=AHQDUGK8iH3ENjg" width="80" height="80" frameborder="0" scrolling="no"></iframe></p>
+    <p><img src="https://farm5.staticflickr.com/4307/36077095691_773f91a9b3_t.jpg" width="100" height="100" align="center"></p>
 </center>
 
 我是木如天。
@@ -26,10 +26,6 @@ header-img: "img/green.jpg"
 
 - [微博@木如天](http://weibo.com/xirutia)
 
-
-<center>
-    <p><img src="http://i173.photobucket.com/albums/w63/cnfeat/2015-08-29-2_zpsqj7po8eo.png" align="center"></p>
-</center>
 
 
 
