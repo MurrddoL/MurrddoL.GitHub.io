@@ -7,7 +7,7 @@ header-img: "img/black.jpg"
 
 
 <center>
-    <p><img src="https://github.com/MurrddoL/MurrddoL.GitHub.io/raw/master/img/murrddol.jpg" align="center"></p>
+    <p><img src="http://otsp9u9u8.bkt.clouddn.com/17-7-28/46064042.jpg" align="center"></p>
 </center>
 
 我是木如天。
